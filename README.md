@@ -32,3 +32,6 @@ react-redux로 Todo List 만들기
 
 * shared
   * Router.js 
+
+<img width="1552" alt="스크린샷 2022-10-13 오후 6 06 47" src="https://user-images.githubusercontent.com/113877276/195557030-0b4b9761-3114-4584-b6b0-cd8290ea65aa.png">
+
