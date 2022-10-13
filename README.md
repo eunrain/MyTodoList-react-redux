@@ -12,9 +12,22 @@ react-redux로 Todo List 만들기
 * redux를 이용한 전역 상태 관리
 * todos 모듈은 Ducks 패턴으로 구현
 
-🗂 components
+🗂 components 
 * Layout.jsx
 * Header.jsx
 * Form.jsx
-* List. js
+* List.jsx
+* Todo.jsz
 
+pages
+* Detail.jsx
+* Home.jsx
+
+redux
+* config
+  * configStore. js
+* modules
+  * todos.js 
+
+shared
+* Router.js 
